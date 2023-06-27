@@ -31,13 +31,13 @@ Currently 2nd year student of Bachelor's of Computer Application in Uttarakhand 
 <a href="https://www.linkedin.com/in/rishabh-shukla-472417230/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linked-logo" height="45"></a>
 <a href="https://www.instagram.com/shukla_rishabh_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/769px-Instagram-Icon.png" alt="instagram-logo" height="45"></a>
 
-Dm me there ↑
+### Dm me there ↑
 
 OR
 
 drop me an email at
  
-shuklarishabh890@gmail.com
+### shuklarishabh890@gmail.com
 
 ## My Projects:
 ### My projects on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS logo" height=45> are
