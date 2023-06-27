@@ -38,6 +38,13 @@ drop me an email at
  
 shuklarishabh890@gmail.com
 
+## My Projects:
+### My projects on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS logo" height=45> are
+1. https://github.com/Persu1t/Meal-App.git
+2. https://github.com/Persu1t/Alarm-Clock.git
+
+### My project on <img src="https://logowik.com/content/uploads/images/react7473.logowik.com.webp" alt="react-logo" height="45"> is
+1.https://github.com/Persu1t/emart.git
 <!--
 **Persu1t/Persu1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +55,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
