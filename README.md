@@ -45,6 +45,20 @@ shuklarishabh890@gmail.com
 
 ### My project on <img src="https://logowik.com/content/uploads/images/react7473.logowik.com.webp" alt="react-logo" height="45"> is
 1.https://github.com/Persu1t/emart.git
+
+## 🔭 I’m currently working on
+I am currently working on optimization on my react project https://github.com/Persu1t/emart.git with next js. Fixing bugs and making new features.
+
+## 💬 Ask me about
+Frontend technologies
+
+FPS shooters like **Counter Strike**
+
+Marvel Cinematic Universe
+
+## ⚡ Fun fact:-
+
+### Everyone become progammer on the day they print the Hello World! in their favourite language. 😄
 <!--
 **Persu1t/Persu1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
