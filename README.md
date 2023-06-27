@@ -15,6 +15,7 @@ Currently 2nd year student of Bachelor's of Computer Application in Uttarakhand 
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo" height="45"></a>
 <a href="https://firebase.google.com/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="firebase-logo" height="45"></a>
 <a href="https://www.netlify.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png" alt="" height="45"></a>
+ <a href="https://replit.com/~"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" alt="replit -logo" height="45"></a>
 
 ## Favourite sites to visit
 <a href="https://www.codingninjas.com/"><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="codingninjas-logo" height="45"></a>
