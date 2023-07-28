@@ -45,13 +45,15 @@ drop me an email at
 2. https://github.com/Persu1t/Alarm-Clock.git
 
 ### My project on <img src="https://logowik.com/content/uploads/images/react7473.logowik.com.webp" alt="react-logo" height="45"> is
-1.https://github.com/Persu1t/emart.git
+1. https://github.com/Persu1t/calculator
 
-2.https://github.com/Persu1t/habittracker
+2. https://github.com/Persu1t/React-Album-Collection
 
-3.https://github.com/Persu1t/React-Album-Collection
+3. https://github.com/Persu1t/habittracker
 
-4.https://github.com/Persu1t/calculator
+4. https://github.com/Persu1t/emart.git
+
+
 
 ## 🔭 I’m currently working on
 I am currently working on building my portfolio website so please hangon tight.
