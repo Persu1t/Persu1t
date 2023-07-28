@@ -47,8 +47,14 @@ drop me an email at
 ### My project on <img src="https://logowik.com/content/uploads/images/react7473.logowik.com.webp" alt="react-logo" height="45"> is
 1.https://github.com/Persu1t/emart.git
 
+2.https://github.com/Persu1t/habittracker
+
+3.https://github.com/Persu1t/React-Album-Collection
+
+4.https://github.com/Persu1t/calculator
+
 ## 🔭 I’m currently working on
-I am currently working on optimization on my react project https://github.com/Persu1t/emart.git with next js. Fixing bugs and making new features.
+I am currently working on building my portfolio website so please hangon tight.
 
 ## 💬 Ask me about
 Frontend technologies
